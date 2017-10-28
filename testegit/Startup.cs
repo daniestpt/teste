@@ -6,10 +6,10 @@ namespace testegit
 {
     public partial class Startup
     {
-        //sadsadsada
+        //sadsadsada  232323
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
         }
-    }
+    }   
 }
