@@ -9,6 +9,7 @@ namespace testegit
         //sadsadsada  232323
         public void Configuration(IAppBuilder app)
         {
+            //sadasdasdasdasd
             ConfigureAuth(app);
         }
     }   
