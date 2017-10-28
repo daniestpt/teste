@@ -6,6 +6,7 @@ namespace testegit
 {
     public partial class Startup
     {
+        //sadsadsada
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
